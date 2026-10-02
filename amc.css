@@ -9,3 +9,5 @@ img.header-logo{width:min(640px,88vw)!important;height:auto!important;background
 
 .et_pb_fullwidth_header_0 .header-content{background:rgba(0,0,0,.42);border-radius:16px;padding:12px 20px 4px}
 .et_pb_fullwidth_header_0 .et_pb_header_content_wrapper p{color:#fff;text-shadow:0 2px 10px rgba(0,0,0,.8)}
+#contract .et_pb_with_border{overflow:visible!important}
+#contract .et_pb_with_border .et_pb_text_inner{overflow-wrap:anywhere;word-break:break-all}
